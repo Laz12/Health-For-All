@@ -1,0 +1,6 @@
+# .htaccess Configuration file for userdir
+
+SetEnv SAMPLE_SERVER localhost
+SetEnv SAMPLE_DB 202310_teams_team27
+SetEnv SAMPLE_USER team27
+SetEnv SAMPLE_PASS Shout4_team27_GOTEAM
