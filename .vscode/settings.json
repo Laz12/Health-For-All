@@ -9,10 +9,10 @@
             "server": "cmsc508.com",
             "port": 3306,
             "driver": "MySQL",
-            "name": "CMSC508 Server",
-            "database": "202310_users_cameroruizla",
-            "username": "cameroruizla",
-            "password": "Shout4_cameroruizla_GOME"
+            "name": "CMSC508 Server Team",
+            "database": "202310_teams_team27",
+            "username": "team27",
+            "password": "Shout4_team27_GOTEAM"
         },
         {
             "mysqlOptions": {
@@ -22,10 +22,10 @@
             "server": "cmsc508.com",
             "port": 3306,
             "driver": "MySQL",
-            "name": "CMSC508 Server Team",
-            "database": "202310_teams_team27",
-            "username": "team27",
-            "password": "Shout4_team27_GOTEAM"
+            "name": "CMSC508 Server",
+            "database": "202310_users_cameroruizla",
+            "username": "cameroruizla",
+            "password": "Shout4_cameroruizla_GOME"
         }
     ]
 }
